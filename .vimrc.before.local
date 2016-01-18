@@ -1,0 +1,2 @@
+let g:ycm_global_ycm_extra_conf='~/.vim/bundle/YouCompleteMe/go/.ycm_extra_conf.py'
+let g:spf13_bundle_groups=['general', 'writing', 'youcompleteme', 'programming', 'php', 'ruby', 'python', 'javascript', 'html', 'misc', 'go', ]
